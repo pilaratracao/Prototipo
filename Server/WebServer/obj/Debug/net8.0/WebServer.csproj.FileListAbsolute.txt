@@ -89,3 +89,63 @@ C:\Users\arthu\Documents\GitHub\STEM\Server\WebServer\obj\Debug\net8.0\refint\We
 C:\Users\arthu\Documents\GitHub\STEM\Server\WebServer\obj\Debug\net8.0\WebServer.pdb
 C:\Users\arthu\Documents\GitHub\STEM\Server\WebServer\obj\Debug\net8.0\WebServer.genruntimeconfig.cache
 C:\Users\arthu\Documents\GitHub\STEM\Server\WebServer\obj\Debug\net8.0\ref\WebServer.dll
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\appsettings.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.staticwebassets.runtime.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.exe
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.deps.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.runtimeconfig.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.dll
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.pdb
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.AssemblyInfo.cs
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.RazorAssemblyInfo.cache
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.RazorAssemblyInfo.cs
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.WebServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.build.WebServer.props
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebServer.props
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebServer.props
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\scopedcss\bundle\WebServer.styles.css
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\scopedcss\projectbundle\WebServer.bundle.scp.css
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.dll
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\refint\WebServer.dll
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.pdb
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.genruntimeconfig.cache
+C:\Users\pedro\Downloads\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\ref\WebServer.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\appsettings.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.staticwebassets.runtime.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\bin\Debug\net8.0\WebServer.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.RazorAssemblyInfo.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.RazorAssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.WebServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.build.WebServer.props
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebServer.props
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebServer.props
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\scopedcss\bundle\WebServer.styles.css
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\scopedcss\projectbundle\WebServer.bundle.scp.css
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\refint\WebServer.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\WebServer.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\STEM-main (1)\STEM-main\Server\WebServer\obj\Debug\net8.0\ref\WebServer.dll

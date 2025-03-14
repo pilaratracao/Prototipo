@@ -6,7 +6,7 @@ Wifi wifi;
 Websocket ws;
 SerialCommunication serial;
 
-const char * address = "put-your-IP";
+const char * address = "192.169.137.145";
 const int port = 8080;
 
 void setup() {

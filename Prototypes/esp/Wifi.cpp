@@ -5,7 +5,7 @@ Wifi::Wifi() {};
 void Wifi::start() {
   WiFi.mode(WIFI_STA);
 
-  wifi.addAP("put-your-nw-name", "put-your-nw-ssid");
+  wifi.addAP("STEM-MAKERSPACE", "St3mMK2k24!!");
   
   Serial.print("Conectando");
 

@@ -2,14 +2,15 @@ import logger from "../logger.js";
 
 export class ConnectionHandler
 {
-    Verify(register)
-    {
-        register.forEach(connection => {
+    Verify(prototypeRegister){
+        prototypeRegister.register.forEach(connection => {
             if (!connection.getIsAlive()) {
                 connection.getConnection().terminate();
                 
-                register.Delete(connection);
-                console.log("desconectado!!!!");
+                // register.Delete(connection);
+                prototypeRegister.DeleteObject(connection);
+                
+                console.log("desconectado.");
                 return;
             }
             

@@ -8,7 +8,7 @@
 
 SerialCommunication serial;
 
-Manipulator manipulator("MP014");
+Manipulator manipulator("MNC020");
 Control control;
 
 bool option;
@@ -26,7 +26,7 @@ String data = "";
 void setup() {
   arduino.begin(9600);
 
-  serial.doHandshake("{\"Id\": \"MP014\", \"Data\": \"Hello\"}");
+  serial.doHandshake("{\"Id\": \"MNC020\", \"Data\": \"Hello\"}");
 
   pinMode(A0, INPUT);
   pinMode(A1, INPUT);

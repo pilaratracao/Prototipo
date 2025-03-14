@@ -24,4 +24,12 @@ export class AbstractRegister
     {
         throw new Error("Method 'DeleteObject(id)' must be implemented.");
     }
+
+    removeItemOnce(arr, value){
+        var index = arr.indexOf(value);
+        if(index > -1){
+            arr.splice(index, 1);
+        };
+        return;
+    }
 }

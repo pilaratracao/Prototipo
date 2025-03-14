@@ -91,7 +91,7 @@ function sendConnectedPrototypes() {
 
 
 setInterval(() =>{
-  connectionHandler.Verify(prototypeRegister.register);
+  connectionHandler.Verify(prototypeRegister);
 }, 1000);
 
 setInterval(() => {
