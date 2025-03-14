@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "winston": "^3.14.2",
+    "ws": "^8.16.0"
+  }
+}
